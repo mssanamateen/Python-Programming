@@ -1,4 +1,4 @@
-##Python Programming
+## Python Programming
 This repository is focused on Core Python Programming. It covers the basics, OOP concepts, GUI libraries,Exception handling.
 ## Contributing
 
